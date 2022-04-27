@@ -51,7 +51,7 @@ int main() {
 	    cout<<endl;
     }
 	// Untuk menampilkan hasil sorting
-	cout<< endl << "Hasil Sorting" << endl;
+	cout << endl << "Hasil Sorting" << endl;
     for(int i = 0; i < angka; i++){
         cout << data[i] << " ";
     }
