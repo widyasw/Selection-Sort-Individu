@@ -20,9 +20,9 @@ int main() {
         cout << "Data ke-" << i + 1 << " = " ;
         cin >> data[i];
         /* 
-			Cin berfungsi untuk menerima inputan data yang dimasukkan oleh user dan kemudian ditampung oleh variabel data dengan index ke i
-			index i ini, didapat dari perulangan for pada baris ke 19
-		*/
+	Cin berfungsi untuk menerima inputan data yang dimasukkan oleh user dan kemudian ditampung oleh variabel data dengan index ke i
+	index i ini, didapat dari perulangan for pada baris ke 19
+	*/
         cout << endl;
     }
 
